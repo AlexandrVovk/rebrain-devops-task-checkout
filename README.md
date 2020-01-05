@@ -50,6 +50,5 @@ nginx -s reload
 ```
 
 ## Authors
-+ Alexandr Vovk - Initial work - [GITHUB] (https://github.com/AlexandrVovk) 
-
++ Alexandr Vovk - Initial work - [GITHUB](https://github.com/AlexandrVovk) 
 
