@@ -31,7 +31,7 @@ systemctl stop other_program
 + change  port 80 to other port ( for example 81 ) in nginx configuration files 
 ```
 egrep -r "listen.*80;" /etc/nginx
-
+```
 ## Deployment
 Clone repository and copy nginx.conf to /etc/nginx
 ```
